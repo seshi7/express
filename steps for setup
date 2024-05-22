@@ -1,7 +1,7 @@
-We should setup jenkins by taking the server in cloud.
+We need to setup jenkins by taking the server in cloud.
 Need to install required installation for jenkins.
 After setting up jenkins server we should create a job then we should select jenkins file under pipelines.
-In environment variables we should add env variable env.BUILD_ID & in credentials sections we need to add Docker hub credentials.
+In environment variables we need to add env variable env.BUILD_ID & in credentials sections we need to add Docker hub credentials.
 we need to create docker file.
 jenkins file for pipeline.
 We need to setup jenkins slave machine for staging server, need to establish the connection.
